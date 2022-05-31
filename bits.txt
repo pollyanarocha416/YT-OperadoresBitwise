@@ -1,0 +1,9 @@
+>> Metade:
+00011010 >> 26 #vale 26
+desloquei ele para a direita...
+O0001101 = 13 # ele cai para a metade
+
+<< Dobra:
+O0001010 = 10
+desloquei ele para a esquerda...
+0001010O = 20

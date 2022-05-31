@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\bin\Debug\net6.0\YTOOperadorBitwise.exe
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\bin\Debug\net6.0\YTOOperadorBitwise.deps.json
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\bin\Debug\net6.0\YTOOperadorBitwise.runtimeconfig.json
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\bin\Debug\net6.0\YTOOperadorBitwise.dll
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\bin\Debug\net6.0\YTOOperadorBitwise.pdb
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\obj\Debug\net6.0\YTOOperadorBitwise.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\obj\Debug\net6.0\YTOOperadorBitwise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\obj\Debug\net6.0\YTOOperadorBitwise.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\obj\Debug\net6.0\YTOOperadorBitwise.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\obj\Debug\net6.0\YTOOperadorBitwise.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\obj\Debug\net6.0\YTOOperadorBitwise.dll
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\obj\Debug\net6.0\refint\YTOOperadorBitwise.dll
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\obj\Debug\net6.0\YTOOperadorBitwise.pdb
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\obj\Debug\net6.0\YTOOperadorBitwise.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\YTOOperadorBitwise\obj\Debug\net6.0\ref\YTOOperadorBitwise.dll
